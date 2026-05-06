@@ -1,1 +1,54 @@
 # My-Projects
+# 歡迎來到我的技術作品集 👋
+
+
+
+我是 陳保銘，目前專注於 Python 數據分析與自動化開發。這裡匯集了我近期的核心專案：
+
+
+
+---
+
+
+
+ 專案目錄
+
+
+
+ 1. PChome 自動化比價系統 
+
+技術棧: `Python`, `Selenium`, `Pandas`
+
+核心功能: 自動化抓取電商平台數據，解決手動比價痛點，並產出結構化 CSV。
+
+
+
+ 果菜市場價格趨勢分析 
+
+技術棧: `Python`, `Data Cleaning`, `Matplotlib`
+
+核心功能**: 對新北市批發市場數據進行清洗與視覺化，洞察價格波動趨勢。
+
+
+
+ 3. PTT 社群輿情分析爬蟲 
+
+技術棧: `BeautifulSoup`, `NLP`, `Sentiment Analysis`
+
+核心功能: 抓取特定看板討論內容，分析消費者情緒與熱門話題關鍵字。
+
+
+
+技術工具箱
+
+程式語言: Python (Pandas, Numpy, Matplotlib, Selenium)
+
+開發環境**: Jupyter Notebook, Google Colab
+
+專業證照: Google Gemini AI 認證、資策會生成式 AI 應用證照
+
+
+
+---
+
+聯絡方式: 電子信箱s3301120002@gmail.com
