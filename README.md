@@ -1,4 +1,4 @@
-# My-Projects
+<img width="1254" height="799" alt="image" src="https://github.com/user-attachments/assets/738359d7-b054-4faa-9d44-fae0e5b4dc37" /># My-Projects
 # 歡迎來到我的技術作品集 👋
 
 
@@ -8,6 +8,7 @@
 
 
 ---
+
 
 
 
@@ -36,6 +37,7 @@
 技術棧: `BeautifulSoup`, `NLP`, `Sentiment Analysis`
 
 核心功能: 抓取特定看板討論內容，分析消費者情緒與熱門話題關鍵字。
+<img width="1249" height="794" alt="image" src="https://github.com/user-attachments/assets/93351dd1-acab-4567-9fff-d1b8f398b3f9" />
 
 
 
