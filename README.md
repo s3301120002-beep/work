@@ -28,7 +28,7 @@
 
 技術棧: `Python`, `Data Cleaning`, `Matplotlib`
 
-核心功能**: 對新北市批發市場數據進行清洗與視覺化，洞察價格波動趨勢。
+核心功能: 對新北市批發市場數據進行清洗與視覺化，洞察價格波動趨勢。
 
 <img width="2176" height="1410" alt="01" src="https://github.com/user-attachments/assets/976d2fa4-7abb-4838-9aa9-ff4e6ba04fc2" />
 
