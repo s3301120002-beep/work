@@ -1,4 +1,3 @@
-<img width="1254" height="799" alt="image" src="https://github.com/user-attachments/assets/738359d7-b054-4faa-9d44-fae0e5b4dc37" /># My-Projects
 # 歡迎來到我的技術作品集 👋
 
 
